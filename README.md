@@ -4,7 +4,7 @@ Car Dealership project site.
 The site is for customers to buy a car.
 
 The site have login for the customer, after that you have navbar for home, about, contact and pages with lists for cars, buyers and order. 
-You see list and you can add, dellete or rename.
+You see list and you can add, delete or rename.
 The app have:
 Application service (it has class for data elements and implementations and managing),
 Data(it has context for lists with the, entities),
