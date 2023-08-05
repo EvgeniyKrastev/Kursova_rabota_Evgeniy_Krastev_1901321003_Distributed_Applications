@@ -13,3 +13,4 @@ WCF Service(shows how things work getters setters and when they have data),
 Migrations, SOAP Service. 
 The project is to learn how to use distributed  applications.
 
+Technologies:HTMl, CSS, JS, C#, MVC, WCF.
