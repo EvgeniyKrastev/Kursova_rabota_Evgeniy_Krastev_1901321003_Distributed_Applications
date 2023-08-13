@@ -12,6 +12,7 @@ MVC (the site use view models, View Bag, HTML Display for showing info, validati
 WCF Service (shows how things work getters setters and when they have data),
 Migrations, SOAP Service. 
 The project is to learn how to use distributed  applications.
+
 To run the project unzip on desktop open with visual studio, be sure that project have all nuget packages and run.
 
 Technologies: HTML, CSS, JS, C#, MVC, WCF, View Bag, View Models, HTML Display, Validation, Migrations, SOAP Service
