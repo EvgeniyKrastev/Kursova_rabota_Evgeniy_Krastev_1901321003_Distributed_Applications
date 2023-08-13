@@ -14,3 +14,5 @@ Migrations, SOAP Service.
 The project is to learn how to use distributed  applications.
 
 Technologies: HTML, CSS, JS, C#, MVC, WCF, View Bag, View Models, HTML Display, Validation, Migrations, SOAP Service
+
+![mvc project](https://github.com/EvgeniyKrastev/Kursova_rabota_Evgeniy_Krastev_1901321003_Distributed_Applications/assets/65820929/96cd022c-a18d-4d0b-9bd6-c935635235c4)
