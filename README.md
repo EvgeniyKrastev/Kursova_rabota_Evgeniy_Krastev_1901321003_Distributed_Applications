@@ -18,3 +18,5 @@ To run the project unzip on desktop open with visual studio, be sure that projec
 Technologies: HTML, CSS, JS, C#, MVC, WCF, View Bag, View Models, HTML Display, Validation, Migrations, SOAP Service
 
 ![mvc project](https://github.com/EvgeniyKrastev/Kursova_rabota_Evgeniy_Krastev_1901321003_Distributed_Applications/assets/65820929/96cd022c-a18d-4d0b-9bd6-c935635235c4)
+
+(https://github.com/EvgeniyKrastev/Kursova_rabota_Evgeniy_Krastev_1901321003_Distributed_Applications/assets/65820929/f821dc63-b6f2-4bd5-a2a5-371aa3deff2c)
